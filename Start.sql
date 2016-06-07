@@ -5,4 +5,4 @@ BEGIN
    dbms_output.put_line(LTRIM(greetings, '.'));
    dbms_output.put_line(TRIM( '.' from greetings));
 END;
-Procedures
+
